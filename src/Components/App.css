@@ -1,0 +1,17 @@
+*{
+  font-family: roboto-slab;
+}
+
+.about{
+  padding: 30px;
+}
+
+.card-item{
+  width: 14rem;
+  height: 17rem;
+  transition: 0.4s ease-in-and-out;
+}
+
+.card-item:hover{
+  transform: scale(0.9);
+}
