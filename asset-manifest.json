@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React-Project-2/static/css/main.50ebfb5e.css",
+    "main.js": "/React-Project-2/static/js/main.dc1566cc.js",
+    "static/media/Galaxy Watch6.png": "/React-Project-2/static/media/Galaxy Watch6.e3e466a0bc81d563e8db.png",
+    "static/media/galaxy-tab-s9-series.jpg": "/React-Project-2/static/media/galaxy-tab-s9-series.5a56e3e2192a71fb66e4.jpg",
+    "static/media/Galaxy Watch5.png": "/React-Project-2/static/media/Galaxy Watch5.dd9fa962f5d8a5a8e5a5.png",
+    "static/media/Galaxy Book2 Pro.jpg": "/React-Project-2/static/media/Galaxy Book2 Pro.545f15aa27450825ccf6.jpg",
+    "static/media/galaxy-watch-s6-series.jpg": "/React-Project-2/static/media/galaxy-watch-s6-series.54260e653feec5fe8714.jpg",
+    "static/media/galaxy-z-filp5.jpg": "/React-Project-2/static/media/galaxy-z-filp5.1c2cb72bec79d70d508a.jpg",
+    "static/media/samsung galaxy A14 - black.jpg": "/React-Project-2/static/media/samsung galaxy A14 - black.4c0b48dc06ff1241f683.jpg",
+    "static/media/galaxy-book3-series.jpg": "/React-Project-2/static/media/galaxy-book3-series.6cab81e45247e3811daa.jpg",
+    "static/media/galaxy-z-fold5.jpg": "/React-Project-2/static/media/galaxy-z-fold5.f558a07fd7ab0b805a21.jpg",
+    "static/media/Galaxy Book3 Pro.png": "/React-Project-2/static/media/Galaxy Book3 Pro.6ce0c51b862b400e1064.png",
+    "static/media/samsung galaxy S21 FE 5G - lavender.jpg": "/React-Project-2/static/media/samsung galaxy S21 FE 5G - lavender.fb2432d3c0999bde8be0.jpg",
+    "static/media/samsung galaxy S22 ultra - green.jpg": "/React-Project-2/static/media/samsung galaxy S22 ultra - green.96bf77e27f264e105cc7.jpg",
+    "static/media/samsung galaxy S22 ultra - dark red.jpg": "/React-Project-2/static/media/samsung galaxy S22 ultra - dark red.aa10baea1d1edc1372a6.jpg",
+    "static/media/Galaxy Book2.jpg": "/React-Project-2/static/media/Galaxy Book2.649131427174fc51a00a.jpg",
+    "static/media/Galaxy Tab S8.png": "/React-Project-2/static/media/Galaxy Tab S8.08e29c3aadf64569c4a1.png",
+    "static/media/samsung galaxy M04 - sea glass green.jpg": "/React-Project-2/static/media/samsung galaxy M04 - sea glass green.eb9a5a26a5c8d93447ed.jpg",
+    "static/media/samsung galaxy Z fold4 5G - phantom black.jpg": "/React-Project-2/static/media/samsung galaxy Z fold4 5G - phantom black.75d4788ba0e3a1028ca7.jpg",
+    "static/media/Galaxy Book2 360.jpg": "/React-Project-2/static/media/Galaxy Book2 360.d83e8c6f12d45c9b8859.jpg",
+    "static/media/samsung galaxy S23 ultra 5G - green.jpg": "/React-Project-2/static/media/samsung galaxy S23 ultra 5G - green.a000d56b309230b4c9aa.jpg",
+    "static/media/Galaxy Book3 360.png": "/React-Project-2/static/media/Galaxy Book3 360.6543a5eee44bfce074ca.png",
+    "static/media/Galaxy Book3 Ultra.jpg": "/React-Project-2/static/media/Galaxy Book3 Ultra.c4479fabb98a79ce627a.jpg",
+    "index.html": "/React-Project-2/index.html",
+    "main.50ebfb5e.css.map": "/React-Project-2/static/css/main.50ebfb5e.css.map",
+    "main.dc1566cc.js.map": "/React-Project-2/static/js/main.dc1566cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50ebfb5e.css",
+    "static/js/main.dc1566cc.js"
+  ]
+}
