@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path='/' element={<Home/>}/>
+        <Route path='/React-Project-2' element={<Home/>}/>
         <Route path='/mobile' element={<Mobile/>}/>
         <Route path='/laptop' element={<Laptop/>}/>
         <Route path='/tab' element={<Tab/>}/>
